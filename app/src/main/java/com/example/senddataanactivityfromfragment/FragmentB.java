@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-public class FragmentT extends Fragment {
+public class FragmentB extends Fragment {
 
     EditText number1, number2;
     Button addActivity;
